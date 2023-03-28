@@ -1,0 +1,6 @@
+services:
+  - id: 1
+    name: "ServerTest"
+    methods:
+      Add: 1
+      AddWithStruct: 2

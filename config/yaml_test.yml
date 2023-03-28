@@ -1,0 +1,5 @@
+services:
+  - id: 1
+    name: "DemoService"
+    methods:
+      Add: 1
